@@ -1,0 +1,18 @@
+{"receptTomb" : [
+{
+    "nev": "zsíros kenyér",
+    "leiras": "Kend meg a kenyeret zsírral",
+    "hozzavalok": ["kenyér", "zsír"]
+},
+{
+    "nev": "rántotta",
+    "leiras": "Törd fel a tojást, verd fel és süsd ki!",
+    "hozzavalok": ["tojás", "zsír", "só"]
+},
+{
+    "nev": "kakaó",
+    "leiras": "Kakaóport keverd össze a tejjel és forrald fel!",
+    "hozzavalok": ["kakaópor", "tej"]
+}
+]
+}
